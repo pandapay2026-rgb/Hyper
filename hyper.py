@@ -49,7 +49,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboard
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8649923751:AAEPwAJR8DGccUyzbHGbOBSwYYpC3PtOYvk"
+BOT_TOKEN = "8940649128:AAEozJOCR5z6RpvStUOQb-fZhZiigR-bn7s"
 OWNER_ID = 6857114917
 
 # Database path (same folder as script - works in Termux & everywhere)
