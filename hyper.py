@@ -50,7 +50,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "8940649128:AAEozJOCR5z6RpvStUOQb-fZhZiigR-bn7s"
-OWNER_ID = 8351204457
+OWNER_ID = 6857114917
 
 # Database path (same folder as script - works in Termux & everywhere)
 DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bot_database.db")
